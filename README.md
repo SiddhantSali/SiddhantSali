@@ -65,8 +65,8 @@ Here are a few highlights from my portfolio:
 
 ### 📫 **Let's Connect!**
 - 💼 **LinkedIn**: [www.linkedin.com/in/siddhant-sali-707a93317](#)
-- 📂 **Portfolio**: [[Your Portfolio](https://github.com/SiddhantSali?tab=repositories)](#)
-- 📧 **Email**: [Your Email](mailto:siddhant.sali@gmail.com)
+- 📂 **Portfolio**: [https://github.com/SiddhantSali?tab=repositories](#)
+- 📧 **Email**: [mailto:siddhant.sali@gmail.com](#)
 
 ---
 
