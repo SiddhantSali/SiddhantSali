@@ -1,72 +1,99 @@
-🌟 Welcome to my GitHub!
-I’m a tech-driven Project Manager passionate about building data-backed marketing and operational solutions.
-My experience blends data analysis, automation, and strategic execution, helping teams scale efficiently and make smarter, insight-led decisions.
+⭐ About Me
 
-👨‍💼 About Me
+Hi, I’m Siddhant Sali, a Data and Operations Analyst with a strong foundation in data analytics, machine learning, and operational strategy. I combine analytical thinking with hands-on technical skills to build data-driven solutions that improve decision-making, optimize processes, and enhance marketing and operational performance.
 
-🧩 Core Focus: Project & Operations Management | Data Analytics | Marketing Automation
+🔍 Core Focus Areas
 
-🚀 What I Do:
+Data Analysis & Visualization
 
-Lead and manage cross-functional projects from planning to delivery.
+Data Pipelines & Automation
 
-Build data pipelines, dashboards, and automation workflows for smarter decisions.
+Qualitative & Quantitative Research
 
-Drive email marketing and analytics initiatives using Python and modern SaaS tools.
+Marketing Analytics & Performance Optimization
 
-💼 Experience:
+Operational Analytics & Workflow Optimization
 
-Operations Manager @ Stratedgex – Managed marketing operations, analytics, and automation projects.
+💼 Professional Experience
+Data and Operations Analyst — StratedgeX
 
-Data Analyst – Delivered insights and reports to guide marketing strategy.
+Feb 2025 – Present
 
-Market Research Analyst – Conducted industry and consumer data studies in the CPG domain.
+Analyze large-scale marketing and operational datasets to derive actionable insights.
 
-🧰 My Toolkit
-💻 Technical	📊 Analytics	⚙️ Project Tools	🧠 Management Skills
-Python, SQL	Pandas, Excel, Tableau	Asana, Notion, ClickUp	Workflow Design, Team Coordination, Reporting
-Automation, APIs	Power BI, Visualization	Zapier, Google Workspace	Communication, Client Management, Problem Solving
-📂 Highlighted Projects
+Improved ROAS from 2x to 7x (peaking at 10x) using audience and performance analytics.
 
-Email Marketing Automation System
+Manage day-to-day operations, coordinate cross-functional teams, and enhance internal workflows.
 
-Built and managed 10+ B2B campaigns integrating Python scripts and marketing tools.
+Lead data-backed campaign optimization initiatives across 12–15 client accounts.
 
-Oversaw full delivery — strategy, copy, analytics, and reporting.
+Campaign Performance Analyst — PSAA Studio
 
-CPG Market Insights Dashboard
+May 2024 – Dec 2024
 
-Managed a market research project from data gathering to Tableau dashboard creation.
+Conducted analytics on digital marketing campaigns to identify inefficiencies and scale performance.
 
-Operational Analytics Tracker
+Delivered demographic and audience insights for improved targeting, increasing campaign quality by 20–30%.
 
-Created automated Excel & SQL dashboards for real-time operational KPIs.
+Built dashboards and analytical reports for performance tracking.
+
+Associate Consultant — Future Market Insights
+
+Aug 2022 – Dec 2023
+
+Delivered 100+ market research reports across global and regional domains.
+
+Conducted market sizing, competitor analysis, trend forecasting, and consumer sentiment studies.
+
+Supported manager in client proposals and handled 150+ research requests with quick turnaround.
+
+🧰 Technical Skills
+Data & Programming
+
+Python (Pandas, NumPy, Matplotlib)
+
+SQL
+
+Excel
+
+Tableau & Power BI
+
+Analytics & Machine Learning
+
+Exploratory Data Analysis
+
+Hypothesis Testing
+
+Regression (Linear & Logistic)
+
+Clustering & Unsupervised Learning
+
+Operations & Project Tools
+
+Google Analytics, Ads Manager, Microsoft Clarity
+
+Asana, Notion, ClickUp
+
+Workflow Automation (Zapier, APIs)
 
 🌟 Achievements
 
-📈 Delivered multi-channel email campaigns with 10k+ outreach and measurable ROI.
+Managed and optimized high-budget marketing campaigns improving revenue by 500%.
 
-🧑‍💻 Bridged technical and business teams for seamless data operations.
+Designed analytical workflows that reduced turnaround time by 30%.
 
-🧠 Introduced automation processes that improved project turnaround time by 30%.
+Bridged technical and non-technical teams for seamless project and data operations.
 
 📚 Currently Exploring
 
-Agile Project Management & SCRUM methodologies.
+Advanced analytics for business decision systems
 
-Scalable analytics infrastructure and workflow automation.
+Forecasting models & feature engineering
 
-Leadership in data-driven marketing and operations teams.
+Data-driven operational strategy
 
-📫 Let's Connect!
+📫 Connect with Me
 
-💼 LinkedIn: www.linkedin.com/in/siddhant-sali-707a93317
+🔗 LinkedIn: https://www.linkedin.com/in/siddhant-sali-707a93317
 
-📧 Email: mailto:siddhant.sali@gmail.com
-
-📂 Portfolio: https://github.com/SiddhantSali?tab=repositories
-
-💡 Fun Fact:
-I love building systems that make teams more productive — from email workflows to data dashboards. Outside of work, you’ll find me exploring café culture, cooking, or brainstorming startup ideas.
-
-⭐ If you’re into data, automation, or marketing operations — let’s connect and build something impactful!
+📧 Email: siddhant.sali3@gmail.com
