@@ -1,98 +1,57 @@
 ⭐ About Me
 
-Hi, I’m Siddhant Sali, a Data and Operations Analyst with a strong foundation in data analytics, machine learning, and operational strategy. I combine analytical thinking with hands-on technical skills to build data-driven solutions that improve decision-making, optimize processes, and enhance marketing and operational performance.
+Hi, I’m Siddhant Sali, a Digital Marketing Manager & Data Analyst blending analytical depth with hands-on marketing execution. I specialize in using data, automation, and performance analytics to drive profitable marketing outcomes and build scalable workflows for fast-growing brands.
 
-🔍 Core Focus Areas
+🔍 What I Do
 
-Data Analysis & Visualization
+Performance Marketing: Google Ads, Meta Ads, Bing Ads
 
-Data Pipelines & Automation
+Marketing Analytics: ROAS/CAC optimization, funnel analysis, attribution, reporting
 
-Qualitative & Quantitative Research
+Data Analysis: Python, SQL, Tableau, statistical modeling
 
-Marketing Analytics & Performance Optimization
+Automation & Ops: Email automation, API-based workflows, CRM setups
 
-Operational Analytics & Workflow Optimization
+Growth Strategy: Audience insights, A/B testing, campaign lifecycle management
 
-💼 Professional Experience
-Data and Operations Analyst — StratedgeX
+💼 Experience Snapshot
+Digital Marketing Manager — StratedgeX
 
-Feb 2025 – Present
+Lead performance marketing strategy across 12–15 clients.
 
-Analyze large-scale marketing and operational datasets to derive actionable insights.
+Scaled ROAS from 2x → 7x (up to 10x) through data-driven optimization.
 
-Improved ROAS from 2x to 7x (peaking at 10x) using audience and performance analytics.
+Managed cross-functional teams & streamlined workflow operations.
 
-Manage day-to-day operations, coordinate cross-functional teams, and enhance internal workflows.
+Performance Marketing Specialist — PSAA Studio
 
-Lead data-backed campaign optimization initiatives across 12–15 client accounts.
+Ran Google & Meta campaigns across industries with 20–30% quality uplift.
 
-Campaign Performance Analyst — PSAA Studio
-
-May 2024 – Dec 2024
-
-Conducted analytics on digital marketing campaigns to identify inefficiencies and scale performance.
-
-Delivered demographic and audience insights for improved targeting, increasing campaign quality by 20–30%.
-
-Built dashboards and analytical reports for performance tracking.
+Built dashboards and analytics reports for better decision-making.
 
 Associate Consultant — Future Market Insights
 
-Aug 2022 – Dec 2023
+Worked on 100+ global market research projects (market sizing, competitor benchmarking).
 
-Delivered 100+ market research reports across global and regional domains.
-
-Conducted market sizing, competitor analysis, trend forecasting, and consumer sentiment studies.
-
-Supported manager in client proposals and handled 150+ research requests with quick turnaround.
+Delivered 150+ quick-turn insights for client proposals & strategy.
 
 🧰 Technical Skills
-Data & Programming
 
-Python (Pandas, NumPy, Matplotlib)
+Marketing Tools: Google Ads, Meta Ads, GA4, GTM, Merchant Center
+Analytics: SQL, Python (Pandas/NumPy), Tableau, Excel
+Data Science: EDA, hypothesis testing, regression, clustering
+Ops & Automation: Zapier, APIs, CRM workflows
+Creative Tools: Canva, Adobe Suite
 
-SQL
+🌟 Highlights
 
-Excel
+Scaled campaigns contributing to 500% revenue growth for clients.
 
-Tableau & Power BI
+Developed automated analytics workflows reducing TAT by 30%.
 
-Analytics & Machine Learning
+Delivered global cold outreach campaigns with strong open & conversion rates.
 
-Exploratory Data Analysis
-
-Hypothesis Testing
-
-Regression (Linear & Logistic)
-
-Clustering & Unsupervised Learning
-
-Operations & Project Tools
-
-Google Analytics, Ads Manager, Microsoft Clarity
-
-Asana, Notion, ClickUp
-
-Workflow Automation (Zapier, APIs)
-
-🌟 Achievements
-
-Managed and optimized high-budget marketing campaigns improving revenue by 500%.
-
-Designed analytical workflows that reduced turnaround time by 30%.
-
-Bridged technical and non-technical teams for seamless project and data operations.
-
-📚 Currently Exploring
-
-Advanced analytics for business decision systems
-
-Forecasting models & feature engineering
-
-Data-driven operational strategy
-
-📫 Connect with Me
+📫 Connect
 
 🔗 LinkedIn: https://www.linkedin.com/in/siddhant-sali-707a93317
 
